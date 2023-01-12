@@ -1,2 +1,2 @@
-# C-CodingTest
+# Cpp-CodingTest
 C++ CodingTest Study
