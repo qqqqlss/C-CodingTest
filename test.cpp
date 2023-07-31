@@ -23,7 +23,7 @@ int main(){
 	
 	getline(cin, s);
 	cout << s << '\n';
-	printf("아이엠어 아이언맨 : %s\n",str.c_str());
+	printf("아이엠어 아이언맨 : %s\n",s.c_str());
 	
 	cin >> T;
 	string bufferflush;
